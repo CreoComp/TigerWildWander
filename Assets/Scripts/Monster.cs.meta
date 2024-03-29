@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7b8e6d94775f41940ae38d0a1f188a03
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _game: {instanceID: 0}
+  - monsterSprite: {instanceID: 0}
+  - deadMonsterClips: {fileID: 8300000, guid: 2f70905e0b458894da18222f01c960cc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
